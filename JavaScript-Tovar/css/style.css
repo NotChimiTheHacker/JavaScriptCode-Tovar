@@ -1,3 +1,22 @@
 body{
     background-color: gold;
 }
+.btn-click{
+  background-color:greenyellow; 
+  color: white;
+  border: 2x solid; 
+  font-size: 20px;
+  border-radius: 6px;
+padding: 10px;
+cursor: pointer;
+}
+
+.btn-reiniciar{
+    background-color:red; 
+    color:white;
+    border: 2x solid; 
+    font-size: 20px;
+    border-radius: 6px;
+  padding: 10px;
+  cursor: pointer;
+  }
